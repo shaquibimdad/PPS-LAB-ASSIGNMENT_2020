@@ -12,7 +12,7 @@ int main()
 
     printf("\n");
   }
-
+                                                        // filled diamond shape
   for (k = 1; k <= n - 1; k++)
   {
     for (c = 1; c <= k; c++)
